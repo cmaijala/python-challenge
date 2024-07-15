@@ -1,4 +1,5 @@
 # python-challenge
+![revenue-per-lead](https://github.com/user-attachments/assets/feff93ef-2349-46e6-9b5c-bf9f9ffbf9a2)
 
 PyBank Instructions
 
@@ -33,6 +34,7 @@ Greatest Decrease in Profits: Feb-14 ($-1825558)
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 -----------------------------
+![Vote_counting](https://github.com/user-attachments/assets/71ba587b-984f-4cc4-b201-8c9148f3ab3b)
 
 
 
