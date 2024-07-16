@@ -5,8 +5,8 @@ import csv
 #Xpert Learning Assistant utilized for the following output below.
 #AskBCSLearningAssistant utilized via Slack for troubleshooting file path directory. 
 # Files to load and output (Remember to change these)
-file_to_load = os.path.join("budget_data.csv")
-file_to_output = os.path.join("analysis", "budget_analysis.txt")
+file_to_load = os.path.join(r"PyBank\Resources\budget_data.csv")
+file_to_output = os.path.join(r"PyBank\analysis\budget_analysis.txt")
 
 # Initialize variables
 total_months = 0
