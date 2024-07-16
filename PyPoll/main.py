@@ -1,6 +1,9 @@
 import os
 import csv
 
+#Had one on one tutorting session with Ikaneng Malapile on 07/14/2024.
+#Xpert Learning Assistant utilized for the following output below.
+#AskBCSLearningAssistant utilized via Slack for troubleshooting file path directory.
 # Files to load and output
 file_to_load = os.path.join(r"PyPoll\Resources\election_data.csv")
 file_to_output = os.path.join(r"PyPoll\analysis\election_results.txt")
